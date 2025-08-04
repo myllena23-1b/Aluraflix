@@ -38,4 +38,5 @@ img{
 .categoria-videos{
     display: flex;
     overflow-x: aaoto;
+    gap: 10px;
 }
